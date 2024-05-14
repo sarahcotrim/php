@@ -1,0 +1,22 @@
+body{
+    background-color: #e7b1cc;
+}
+
+h1{
+    background-color: #b23272;
+    text-align: center;
+    font-size: 35px;
+    border: 2px solid black;
+}
+
+h2{
+    background-color: #cc4e8f;
+    font-size: 25px;
+    border: 2px solid black;
+}
+
+pre{
+    background-color: #de70af;
+    font-size: 15px;
+    border: 2px solid black;
+}
