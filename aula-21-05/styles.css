@@ -1,0 +1,28 @@
+body{
+    background-color: #c33b80;
+}
+
+pre{
+    background-color: #ffa8d9;
+    font-size: 15px;
+    border: 2px solid black;
+}
+
+table{
+    background-color: #ffa8d9;
+    border: 2px solid black;
+}
+
+td{
+    border: 2px solid black;
+    padding: 30px;
+}
+
+th{
+    border: 2px solid black;
+    padding: 30px;
+}
+
+tr{
+    padding: 30px;
+}
